@@ -1,3 +1,8 @@
-go mod init test
-go mod tidy
-go get -u github.com/gofiber/fiber/v2
+# fiber_practice
+
+Practicing Go [Fiber](https://gofiber.io/) package.
+
+## Usage
+```sh
+go run server.go
+```
